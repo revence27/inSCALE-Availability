@@ -1,0 +1,11 @@
+MIDlet-1: Availability Tester,/avlogo.PNG,availability.Availability
+MIDlet-Description: For mapping the analogue availability of certain mobile communications services.
+MIDlet-Icon: avlogo.PNG
+MIDlet-Info-URL: http://1st.ug/
+MIDlet-Jar-Size: 22151
+MIDlet-Jar-URL: Availability.jar
+MIDlet-Name: Availability
+MIDlet-Vendor: Scyfy Technologies
+MIDlet-Version: 2.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
